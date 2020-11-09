@@ -1,6 +1,6 @@
 # spacex-launches
 
-### DEployed using Heroku
+### Deployed using Heroku
 https://shrouded-garden-00773.herokuapp.com/
 
 ### Shows all Space X launches using the SpaceX api
